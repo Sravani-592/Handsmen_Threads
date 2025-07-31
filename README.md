@@ -43,7 +43,7 @@ A core priority of the project is maintaining **data integrity directly from the
 ---
 ## Project Assets
 
-- [Download Project Documentation & Files](https://drive.google.com/file/d/1TIxC-2nV1_EKgAHGCHQ1b7g21bpBHmes/view?usp=drive_link)
+- [View Demo Video](https://drive.google.com/file/d/1TIxC-2nV1_EKgAHGCHQ1b7g21bpBHmes/view?usp=drive_link)
 
 ---
 
