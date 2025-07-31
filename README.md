@@ -41,5 +41,10 @@ A core priority of the project is maintaining **data integrity directly from the
   Execute time-consuming operations efficiently using batch jobs and queueable Apex.
 
 ---
+## Project Assets
+
+- [Download Project Documentation & Files](https://drive.google.com/file/d/1TIxC-2nV1_EKgAHGCHQ1b7g21bpBHmes/view?usp=drive_link)
+
+---
 
 This project delivers a complete solution to help HandsMen Threads achieve operational excellence and customer satisfaction through intelligent Salesforce automation and data design.
